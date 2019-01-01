@@ -1,0 +1,8 @@
+<name>ZeroPage</name>
+<id>zeropage</id>
+<version>1.0.0.9</version>
+<description>Advanced page features</description>
+<author>Daniell Mesquita</author>
+<helpurl>https://github.com/eventlr-engine/ZeroPage-plugin</helpurl>
+<platform>ZeroNet</platform>
+<icon>icon.png</icon>
